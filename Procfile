@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/classes:target/dependency/* HelpDesk
+web: java $JAVA_OPTS -cp target/classes:target/dependency/* com.rayc.helpdesk.HelpDeskApplication
